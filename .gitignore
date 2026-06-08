@@ -1,0 +1,6 @@
+# Python example
+__pyache__/
+*.pyc
+.env
+.vscode/
+.idea/
